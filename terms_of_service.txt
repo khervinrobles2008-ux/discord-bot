@@ -1,0 +1,38 @@
+TERMS OF SERVICE
+
+Last Updated: September 14, 2024
+
+1. AGREEMENT TO TERMS
+By using this Discord Bot, you agree to comply with and be bound by these Terms of Service. If you do not agree to abide by the above, please do not use this service.
+
+2. USE LICENSE
+Permission is granted to temporarily use this Discord Bot for lawful purposes only. This is the grant of a license, not a transfer of title, and under this license you may not:
+- Modify or copy the materials
+- Use the materials for any commercial purpose or for any public display
+- Attempt to decompile or reverse engineer any software contained on the Bot
+- Remove any copyright or other proprietary notations from the materials
+- Transfer the materials to another person or "mirror" the materials on any other server
+
+3. DISCLAIMER
+The materials on this Discord Bot are provided on an 'as is' basis. The Bot makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+
+4. LIMITATIONS
+In no event shall the Bot or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on this Bot.
+
+5. ACCURACY OF MATERIALS
+The materials appearing on this Discord Bot could include technical, typographical, or photographic errors. The Bot does not warrant that any of the materials on this Bot are accurate, complete, or current.
+
+6. MODIFICATIONS
+The Bot may revise these terms of service for this Bot at any time without notice. By using this Bot, you are agreeing to be bound by the then current version of these terms of service.
+
+7. GOVERNING LAW
+These terms and conditions are governed by and construed in accordance with applicable laws, and you irrevocably submit to the exclusive jurisdiction of the courts in that location.
+
+8. DISCLAIMER OF WARRANTIES
+Your use of the Bot is at your sole risk. The Bot is provided on an "as is" and "as available" basis. The Bot expressly disclaims all warranties of any kind, whether express or implied, including but not limited to any warranties of merchantability, fitness for a particular purpose.
+
+9. LIMITATION OF LIABILITY
+In no case shall the Bot, its owners, or its suppliers be liable for any damages, losses or costs arising out of or in connection with your use of the Bot or these terms, whether such liability arises from any claim based upon warranty, contract, tort or otherwise.
+
+10. CONTACT
+If you have any questions about these Terms of Service, please contact us through the Discord Bot support channels.
